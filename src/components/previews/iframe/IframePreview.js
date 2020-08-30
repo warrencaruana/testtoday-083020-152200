@@ -35,8 +35,8 @@ class IframePreview extends React.PureComponent {
       'https://yskeo5mgc0.execute-api.us-west-2.amazonaws.com/dev/startSandbox',
       {
         sanity: {
-          id: 'sanity-id',
-          token: 'sanity-token'
+          id: 'u3k1r60z',
+          token: 'sklSWoDRfAlHddWwmast94w5lUKI48uxFGJX8M9Mqd5ZfxP08tQuETpzK1WIDhnuey0VueRlgEnxeanEm'
         }
       }
     ).then( (response) => {
